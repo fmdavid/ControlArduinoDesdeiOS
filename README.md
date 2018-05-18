@@ -8,7 +8,7 @@ Para ello haremos uso de Arduino Blue, que consta de una aplicación para el dis
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://www.youtube.com/watch?v=5wHlHbbFceY&t=19s)
+* [Vídeo](https://www.youtube.com/watch?v=5wHlHbbFceY)
 
 ## Contenido
 
