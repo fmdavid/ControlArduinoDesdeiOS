@@ -22,6 +22,8 @@ En este repositorio puede encontrar lo siguiente:
 
 Puede encontrar la información del proyecto Arduino Blue [aquí](https://sites.google.com/stonybrook.edu/arduinoble/documentation).
 
+Las aplicaciones móviles de Arduino Blue están disponibles en las respectivas tiendas de aplicaciones de Apple y Google.
+
 ## Contribuir
 
 **¡Toda contribución es bienvenida!**
