@@ -38,4 +38,4 @@ Usa las opciones que proporciona GitHub: **Pull Request** o **Fork** para colabo
 
 ## Licencia
 
-Bajo MIT License - ver [LICENSE.md](LICENSE.md) para más detalles.
+Bajo MIT License - ver [LICENSE](LICENSE) para más detalles.
